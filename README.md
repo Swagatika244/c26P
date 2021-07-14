@@ -1,2 +1,1 @@
-# c26P
-# https://swagatika244.github.io/c26P/
+# Project Template 26
